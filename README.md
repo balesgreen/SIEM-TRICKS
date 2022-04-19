@@ -41,8 +41,7 @@
   * Buscando um POC
   * Capacidade de ingerir e processar registros de redes.
 
-O SIEM registra dados da rede interna de ferramentas de um usuário e identifica possíveis problemas e ataques. O sistema opera sob um modelo estatístico para analisar as entradas de log. O SIEM distribui agentes de coleta e recupera dados da rede, dispositivos, servidores e firewalls.
+<strong>O SIEM registra dados da rede interna de ferramentas de um usuário e identifica possíveis problemas e ataques. O sistema opera sob um modelo estatístico para analisar as entradas de log. O SIEM distribui agentes de coleta e recupera dados da rede, dispositivos, servidores e firewalls.</strong>
 
-<br>
 
-<h5>Criado por Rafael Romão</h5>
+<h5>Criado com ❤️ por Rafael Romão</h5>
